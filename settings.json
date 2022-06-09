@@ -1,0 +1,8 @@
+{
+    "name": "tokentech_project",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true
+    }
+}
